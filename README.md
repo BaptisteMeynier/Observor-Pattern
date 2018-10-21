@@ -1,7 +1,7 @@
 # Observer Pattern
 ____
 
-![alt text](https://github.com/BaptisteMeynier/Observor-Pattern/blob/master/src/common/images/visitor_pattern.png "Visitor scheme")
+![alt text](https://github.com/BaptisteMeynier/Observor-Pattern/blob/master/src/common/images/observer_pattern_uml_diagram.jpg "Visitor scheme")
 
 ## Permanent Implementation
 Subject contain a classical array of Observer
